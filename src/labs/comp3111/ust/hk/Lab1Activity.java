@@ -9,6 +9,7 @@ public class Lab1Activity{
 		
 		//for(int i : arr){
 		for(int i = 0; i<arr.length;i++){	
+			
 			sum += i;
 		
 			if(arr[i]<min)
